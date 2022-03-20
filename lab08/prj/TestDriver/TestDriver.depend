@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1645616230 source:c:\users\axiom\desktop\Что-то нужное\bmtp\bmtp_lab8_for_krutikov\prj\testdriver\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"ModulesKrutikov.h"
+
+1645615846 c:\users\axiom\desktop\Что-то нужное\bmtp\bmtp_lab8_for_krutikov\prj\moduleskrutikov.h
+	<cmath>
+
